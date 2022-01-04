@@ -1,0 +1,31 @@
+.topNav {
+ 
+  width: 100%;
+  display: flex;
+  color: #fff;
+  background: #000;
+  justify-content: flex-end;
+  height: 50px;
+}
+
+.listParent {
+  
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 1.5rem;
+    align-self: flex-start;
+    margin-right: 2rem;
+    border: 1px solid;
+}
+
+.listItem {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.listItem > svg{
+    padding-right: 12px;
+}

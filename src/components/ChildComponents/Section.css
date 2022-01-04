@@ -1,0 +1,38 @@
+.section {
+  flex-direction: column;
+  margin: 3rem auto;
+}
+
+.cards_section{
+    margin: 3rem auto;
+}
+.subtitle {
+  text-align: center;
+  color: gray;
+}
+
+.main_title h2 {
+  font-size: 3.5rem;
+  font-weight: 400;
+}
+
+.w_100 {
+  width: 100%;
+}
+
+.card {
+  overflow: hidden;
+  border: 1px solid #c4c4c4;
+  width: 35rem;
+}
+.card img{
+    height: 100%;
+}
+.boder_radius {
+  border-radius: 10px;
+}
+
+.img_fluid{
+    width: 100%;
+    height: auto;
+}
