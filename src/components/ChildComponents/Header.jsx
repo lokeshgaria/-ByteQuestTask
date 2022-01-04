@@ -17,7 +17,7 @@ function Header() {
             <span>Portfolio</span>
           </div>
           <div className="contactButton">
-            <input type="button" value="Contact us" className="btn_primary text btn_hover" />
+            <input type="button" value="Contact Us" className="btn_primary text btn_hover" />
           </div>
         </div>
       </div>

@@ -1,6 +1,5 @@
 .topNav {
- 
-  width: 100%;
+ width: 100%;
   display: flex;
   color: #fff;
   background: #000;
@@ -17,7 +16,7 @@
     font-size: 1.5rem;
     align-self: flex-start;
     margin-right: 2rem;
-    border: 1px solid;
+   
 }
 
 .listItem {
@@ -27,5 +26,6 @@
 }
 
 .listItem > svg{
-    padding-right: 12px;
+  font-size: 2rem;
+    margin: 0 1rem;
 }
