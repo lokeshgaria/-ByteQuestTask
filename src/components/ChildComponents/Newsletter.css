@@ -1,0 +1,51 @@
+.newsletter {
+  background-color: #66cccc;
+}
+
+.newcontent {
+  height: 25rem;
+}
+
+.Leftside {
+  color: #fff;
+  height: 54%;
+}
+
+.flex_column {
+  flex-direction: column;
+}
+.Leftside h2 {
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.font5rem {
+  font-size: 4rem;
+}
+
+.justify_end {
+  justify-content: flex-end;
+}
+
+.inputDiv {
+  width: 90%;
+  border: 1px solid #edecf0;
+  border-radius: 50px;
+  background: #edecf0;
+  padding: 2px;
+}
+
+.inputDiv input[type="text"] {
+  font-size: 1.8rem;
+  border: none;
+  text-align: center;
+  outline: none;
+  background: none;
+  /* margin: 0rem; */
+  margin-left: 14px;
+}
+
