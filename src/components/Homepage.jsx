@@ -6,12 +6,21 @@ import Banner from "./ChildComponents/Banner";
 import Section from "./ChildComponents/Section";
 import Newsletter from "./ChildComponents/Newsletter";
 import Footer from "./ChildComponents/Footer"
+import ScrollSection from "./ChildComponents/ScrollSection";
 function Homepage() {
   return (
     <div className="homepage">
       <Topnav />
       <Header />
       <Banner />
+      <ScrollSection
+        product={true}
+        subtitle="Lorem, ipsum dolor."
+        maintitle="Products"
+      />
+      <ScrollSection   
+       subtitle="Lorem, ipsum dolor."
+        maintitle="Services"/>
       <Section
         subtitle="Lorem, ipsum dolor."
         maintitle="Portfolio / case studies"

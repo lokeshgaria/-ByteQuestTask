@@ -15,7 +15,7 @@ function Footer() {
 
         <div className="Links flex1 d_flex flex_column footerChild align_center justify_center">
           <h3>Links</h3>
-          <div className="d_flex flex_column  justify_between footer_links">
+          <div className="d_flex flex_column quickLinks justify_between footer_links">
             <a href="/" className="text">
               Our Clients
             </a>
@@ -30,7 +30,7 @@ function Footer() {
 
         <div className="Links flex1 d_flex flex_column footerChild align_center justify_center">
           <h3>Information</h3>
-          <div className="d_flex flex_column  justify_between footer_links">
+          <div className="d_flex flex_column quickLinks  justify_between footer_links">
             <a href="/" className="text">
               Our Clients
             </a>
@@ -45,22 +45,21 @@ function Footer() {
 
         <div className="Links flex1 d_flex flex_column footerChild align_center justify_center">
           <h3>Contact Us</h3>
-          <div className="d_flex flex_column  justify_between footer_links">
+          <div className="d_flex flex_column quickLinks  justify_between footer_links">
             <a href="/" className="text">
-              Our Clients
+            983934 23423 , 3934 23423
             </a>
             <a href="/" className="text">
-              Privacy Policy
+            info@bytequestions.com
             </a>
             <a href="/" className="text">
-              Our Benefits
+             84 Block A , sector 4
             </a>
           </div>
         </div>
       </div>
       <div className="copyRight subtitle d_flex align_center justify_center text">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis et a
-        provident.
+        Copyright 2020 ByteQuest Software private limited . All Rights Reserved  
       </div>
     </div>
   );

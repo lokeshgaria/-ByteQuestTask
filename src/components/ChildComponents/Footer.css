@@ -5,13 +5,13 @@
 .Links a , .footerChild p{
    color: gray;
      margin: 3px 0;
-     margin-left: -12px;
+    
 }
 .footerChild h3{
     font-size: 2.5rem;
     font-weight: 400;
-    /* border: 1px solid; */
-    width: 37%;
+   
+    width: 78%;
 }
 .justify_center{
     justify-content: center;
@@ -27,4 +27,8 @@
 .copyRight{
     border-top: 1px solid gainsboro;
     padding: 1rem;
+}
+
+.quickLinks{
+    width: 78%;
 }
